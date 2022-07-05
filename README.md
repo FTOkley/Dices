@@ -13,6 +13,6 @@
 <br>
 <br>
 <h2> 
-Play Dices game <a href="ftokley.github.io/dices/">here</a>
+Play Dices game <a href="https://ftokley.github.io/Dices/">here</a>
 </h2>
 
