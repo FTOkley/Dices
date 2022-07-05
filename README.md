@@ -9,7 +9,7 @@ Available only on desktop or tablet
 <br>
 <h2> Preview Game </h2>
 <hr>
-<img src=" " alt="review of dices game">
+<img src="C:\Users\USER\Desktop\Amalitech\GitHub\Pig-Game\Dices\images\Screenshot 2022-07-05 233502.png" alt="review of dices game">
 
 <br>
 <br>
