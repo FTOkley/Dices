@@ -2,6 +2,7 @@
 <hr>
 <h2> Dices </h2>
 <hr>
+Available only on desktop or tablet
 
 
 <br>
